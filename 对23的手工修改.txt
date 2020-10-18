@@ -1,31 +1,12 @@
 ﻿替换 ban.json里的 domain ；
 替换 https://github.com/233boy/v2ray  为 https://github.com/wibrst/mvk ；
-替换 https://git.io/v2ray.sh 为 https://git.io/mvk2r ；
+替换 https://git.io/v2ray.sh 为 https://git.io/mrk1a ；
 替换 233v2.com_$ 为 wibrst_$。
 
 ==========================
 
 短网址命令：
-curl -i https://git.io -F "url=https://github.com/wibrst/mvk/raw/master/v2ray.sh" -F "code=mvk2r"
+curl -i https://git.io -F "url=https://github.com/wibrst/mvk/raw/master/v2ray.sh" -F "code=mrk1a"
 
 really: https://raw.githubusercontent.com/wibrst/mvk/master/v2ray.sh
 
-
-HTTP/1.1 201 Created
-Server: Cowboy
-Connection: keep-alive
-Date: Sun, 18 Oct 2020 15:10:14 GMT
-Status: 201 Created
-Content-Type: text/html;charset=utf-8
-Location: https://git.io/mvk2r
-Content-Length: 38
-X-Xss-Protection: 1; mode=block
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-Runtime: 0.253772
-X-Node: 2607c19c-5bd0-4221-80d4-bfb4cdf5d48a
-X-Revision: 392798d237fc1aa5cd55cada10d2945773e741a8
-Strict-Transport-Security: max-age=31536000; includeSubDomains
-Via: 1.1 vegur
-
-https://github.com/wibrst/mvk/v2ray.sh

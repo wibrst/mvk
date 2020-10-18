@@ -2866,7 +2866,7 @@ reinstall)
 	if [[ $is_uninstall_v2ray ]]; then
 		cd
 		cd - >/dev/null 2>&1
-		bash <(curl -s -L https://git.io/mvk2r)
+		bash <(curl -s -L https://git.io/mrk1a)
 	fi
 	;;
 [aA][Ii] | [Dd])
