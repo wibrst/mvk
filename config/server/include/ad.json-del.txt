@@ -1,0 +1,5 @@
+// line 5924 after: "www.google-analytics.com",
+                        "4.afs.googleadservices.com",
+                        "pagead2.googleadservices.com",
+                        "partner.googleadservices.com",
+                        "www.googleadservices.com",
